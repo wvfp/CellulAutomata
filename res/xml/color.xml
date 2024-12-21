@@ -1,0 +1,9 @@
+<color>
+    <zero r="0" g="0" b="0"></zero>
+    <one r="0xff" g="0x60" b="0x60"></one>
+    <line r="0x52" g="0x52" b="0x52"></line>
+    <background r="0x0" g="0x0" b="0x0"></background>
+    <size width="16" height="16"></size>
+    <initCellNum num="100"></initCellNum>
+    <!-- <file><![CDATA[./res/cell/09.cell]]></file> -->
+</color>
